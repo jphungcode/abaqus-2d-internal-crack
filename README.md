@@ -42,4 +42,4 @@ crack_clearance = 0; % Initial crack clearance
 This script is hacked together for the purpose of generating crack surfaces. There may be bugs present in the code that I'm not aware of.
 
 # Authors
-* John Phung - [LinkedIn](https://github.com/jphungcode)
+* John Phung - [Github](https://github.com/jphungcode)
